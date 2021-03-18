@@ -1,2 +1,2 @@
 # dgl-tutorials
-Implements Deep Graph Tutorials for basic understanding
+Implements Deep Graph Library Tutorials for basic understanding
