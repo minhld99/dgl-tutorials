@@ -198,23 +198,3 @@ train(g, model)
 #    model = GCN(g.ndata['feat'].shape[1], 16, dataset.num_classes).to('cuda')
 #    train(g, model)
 #
-
-
-######################################################################
-# What’s next?
-# ------------
-# 
-# -  :doc:`How does DGL represent a graph <2_dglgraph>`?
-# -  :doc:`Write your own GNN module <3_message_passing>`.
-# -  :doc:`Link prediction (predicting existence of edges) on full
-#    graph <4_link_predict>`.
-# -  :doc:`Graph classification <5_graph_classification>`.
-# -  :doc:`Make your own dataset <6_load_data>`.
-# -  :ref:`The list of supported graph convolution
-#    modules <apinn-pytorch>`.
-# -  :ref:`The list of datasets provided by DGL <apidata>`.
-# 
-
-
-# Thumbnail Courtesy: Stanford CS224W Notes
-# sphinx_gallery_thumbnail_path = '_static/blitz_1_introduction.png'

@@ -205,26 +205,3 @@ print(g)
 print(g)
 print(sg1)
 print(sg2)
-
-
-######################################################################
-# What’s next?
-# ------------
-# 
-# -  See
-#    :ref:`here <apigraph-querying-graph-structure>`
-#    for a list of graph structure query APIs.
-# -  See
-#    :ref:`here <api-subgraph-extraction>`
-#    for a list of subgraph extraction routines.
-# -  See
-#    :ref:`here <api-transform>`
-#    for a list of graph transformation routines.
-# -  API reference of :func:`dgl.save_graphs`
-#    and
-#    :func:`dgl.load_graphs`
-# 
-
-
-# Thumbnail Courtesy: Wikipedia
-# sphinx_gallery_thumbnail_path = '_static/blitz_2_dglgraph.png'

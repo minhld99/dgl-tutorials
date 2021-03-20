@@ -343,16 +343,3 @@ def sum_udf(nodes):
 # -  Use ``update_all`` with builtin message and reduce functions.
 # -  Use user-defined message or reduce functions.
 # 
-
-
-######################################################################
-# What’s next?
-# ------------
-# 
-# -  :ref:`Writing Efficient Message Passing
-#    Code <guide-message-passing-efficient>`.
-# 
-
-
-# Thumbnail Courtesy: Representation Learning on Networks, Jure Leskovec, WWW 2018
-# sphinx_gallery_thumbnail_path = '_static/blitz_3_message_passing.png'

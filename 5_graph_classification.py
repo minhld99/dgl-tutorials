@@ -196,17 +196,3 @@ for batched_graph, labels in test_dataloader:
     num_tests += len(labels)
 
 print('Test accuracy:', num_correct / num_tests)
-
-
-######################################################################
-# What’s next
-# -----------
-# 
-# -  See `GIN
-#    example <https://github.com/dmlc/dgl/tree/master/examples/pytorch/gin>`__
-#    for an end-to-end graph classification model.
-# 
-
-
-# Thumbnail Courtesy: DGL
-# sphinx_gallery_thumbnail_path = '_static/blitz_5_graph_classification.png'
